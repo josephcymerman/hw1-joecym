@@ -1,6 +1,7 @@
 %% ME370 LSN16
 % Starter File
 % Instructor Version
+% DATE
 
 clear
 close all
